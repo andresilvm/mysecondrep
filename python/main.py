@@ -60,5 +60,11 @@ bob.pu()
 bob.fd(25)
 bob.pd()
 circle(bob, 5)
+bob.pu()
+bob.lt(30)
+bob.fd(25)
+bob.pd()
+circle(bob, 5)
+
 
 turtle.mainloop()
